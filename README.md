@@ -42,6 +42,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+![Screenshot 2023-12-20 082423](https://github.com/navinofficial/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/151710204/fb6cde9b-6c01-4a7f-a01e-a2a5edcd32f5)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
